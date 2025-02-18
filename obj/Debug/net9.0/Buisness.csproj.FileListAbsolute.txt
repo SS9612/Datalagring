@@ -1,0 +1,17 @@
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.AssemblyInfoInputs.cache
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.AssemblyInfo.cs
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.csproj.CoreCompileInputs.cache
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.csproj.AssemblyReference.cache
+C:\VSC\DataStorage\Buisness\bin\Debug\net9.0\Buisness.deps.json
+C:\VSC\DataStorage\Buisness\bin\Debug\net9.0\Buisness.dll
+C:\VSC\DataStorage\Buisness\bin\Debug\net9.0\Buisness.pdb
+C:\VSC\DataStorage\Buisness\bin\Debug\net9.0\DataStorage.dll
+C:\VSC\DataStorage\Buisness\bin\Debug\net9.0\DataStorage.pdb
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.csproj.Up2Date
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.dll
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\refint\Buisness.dll
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.pdb
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\ref\Buisness.dll
+C:\VSC\DataStorage\Buisness\bin\Debug\net9.0\Buisness.runtimeconfig.json
+C:\VSC\DataStorage\Buisness\obj\Debug\net9.0\Buisness.genruntimeconfig.cache
